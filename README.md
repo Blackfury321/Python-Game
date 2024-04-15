@@ -1,6 +1,6 @@
 # Python-Game
 
-A python game developed by Blackfury321.
+## A python game developed by Blackfury321 and ccris-rg
 
 GAMEPLAY:
 
